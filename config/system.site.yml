@@ -1,0 +1,14 @@
+uuid: 8a485961-a905-4ad4-b2fd-50af617a552f
+name: test-vanilla
+mail: maria.fisher@thinkshout.org
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
